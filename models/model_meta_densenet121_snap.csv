@@ -1,0 +1,8 @@
+model_name,model_weights,model_path
+densenet121,densenet121_0,dir_densenet121/snap_train1/densenet121_1epochs_0.9358.weights
+densenet121,densenet121_1,dir_densenet121/snap_train1/densenet121_3epochs_0.948.weights
+densenet121,densenet121_2,dir_densenet121/snap_train1/densenet121_5epochs_0.9515.weights
+densenet121,densenet121_3,dir_densenet121/snap_train1/densenet121_9epochs_0.9539.weights
+densenet121,densenet121_4,dir_densenet121/snap_train1/densenet121_11epochs_0.9549.weights
+densenet121,densenet121_5,dir_densenet121/snap_train1/densenet121_13epochs_0.9566.weights
+densenet121,densenet121_6,dir_densenet121/snap_train1/densenet121_15epochs_0.9578.weights

@@ -1,0 +1,10 @@
+model_name,model_weights,model_path
+resnet18,resnet18_0,dir_resnet18/resnet18_11epochs_0.9535.weights
+resnet18,resnet18_1,dir_resnet18/resnet18_39epochs_0.9505.weights
+resnet18,resnet18_2,dir_resnet18/resnet18_28epochs_0.9508.weights
+resnet18,resnet18_3,dir_resnet18/resnet18_11epochs_0.9545.weights
+resnet18,resnet18_4,dir_resnet18/resnet18_73epochs_0.9447.weights
+resnet18,resnet18_5,dir_resnet18/resnet18_11epochs_0.954.weights
+resnet18,resnet18_6,dir_resnet18/resnet18_79epochs_0.9545.weights
+resnet18,resnet18_7,dir_resnet18/resnet18_11epochs_0.9543.weights
+resnet18,resnet18_8,dir_resnet18/resnet18_11epochs_0.9539.weights
